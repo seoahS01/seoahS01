@@ -18,11 +18,11 @@
     - 2024.07 ~ : 금융 교육 플랫폼 'Finut' 
   - 2024.07 ~ : Naver AI RUSH
   - 2024.07 ~ : [AInstein Lab](https://sites.google.com/view/soo-kyung-kim/home) 학부연구생
-  - ~ 2024.06 : GDSC EWHa 5th member
+  - ~ 2024.06 : GDSC EWHA 5th member
     - 2024.01 : GDSC 연합 해커톤 Snowflowerton 참여
     - 2024.01 : Google Solution Challenge 참여
 
 ### 2023
-  - 2023.09 ~ : GDSC EWHa 5th member
+  - 2023.09 ~ : GDSC EWHA 5th member
 
 
