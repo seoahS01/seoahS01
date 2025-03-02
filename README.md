@@ -22,7 +22,7 @@
 
 ### 2024
   - 2024.12 ~ : Fisolution 백엔드 인턴
-  - 2024. 09 ~ : '글로벌 프론티어' The Importance of Customized Environment Simulation in HVAC Systems: Focusing on Reinforcement Learning
+  - 2024.09 ~ : '글로벌 프론티어' The Importance of Customized Environment Simulation in HVAC Systems: Focusing on Reinforcement Learning
   - 2024.09 ~ : 신촌 연합 IT 창업 동아리 'CEOS' 백엔드 파트원
     - 2024.12 ~ : 커피 구독권 서비스 'CupFeeDeal' 백엔드 개발자
   - 2024.03 ~ 2024.10: SKT 대학생 개발자 커뮤니티 'DEVOCEAN YOUNG'
