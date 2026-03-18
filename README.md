@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b30ecbf5-2a20-44e3-87d9-aad576342f69" width="600"/>
+  
+  ### 𝐀 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐝𝐫𝐢𝐯𝐞𝐧 𝐛𝐲 𝐭𝐡𝐞 𝐣𝐨𝐲 𝐨𝐟 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐩𝐫𝐢𝐝𝐞 𝐨𝐟 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐢𝐧𝐠.
+  ### 𝐴 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 𝑑𝑟𝑖𝑣𝑒𝑛 𝑏𝑦 𝑡ℎ𝑒 𝑗𝑜𝑦 𝑜𝑓 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑝𝑟𝑖𝑑𝑒 𝑜𝑓 𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑖𝑛𝑔.
+  ### 𝑨 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒅𝒓𝒊𝒗𝒆𝒏 𝒃𝒚 𝒕𝒉𝒆 𝒋𝒐𝒚 𝒐𝒇 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂𝒏𝒅 𝒕𝒉𝒆 𝒑𝒓𝒊𝒅𝒆 𝒐𝒇 𝒅𝒆𝒍𝒊𝒗𝒆𝒓𝒊𝒏𝒈.
+  
 
-## A developer driven by the joy of building and the pride of delivering.
 </div>
