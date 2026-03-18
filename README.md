@@ -1,5 +1,3 @@
 <div align="center">
-  <h3>𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐒𝐞𝐨𝐚𝐡!</h3>
-  <h3>𝐀 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐝𝐫𝐢𝐯𝐞𝐧 𝐛𝐲 𝐭𝐡𝐞 𝐣𝐨𝐲 𝐨𝐟 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐩𝐫𝐢𝐝𝐞 𝐨𝐟 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐢𝐧𝐠.</h3>
-
+  <img width="755" height="393" alt="스크린샷 2026-03-19 오전 2 57 34" src="https://github.com/user-attachments/assets/409610c9-7bf1-4173-aa58-8955e39909b9" />
 </div>
